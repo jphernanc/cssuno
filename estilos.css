@@ -15,3 +15,26 @@ nav {
  	padding: 0;
 
  }
+
+ nav ul li {
+
+ 	float: left;
+
+ }
+
+ nav li a {
+
+ 	color: white;
+ 	text-decoration: none;
+ 	display: block;
+ 	font-family: verdana;
+ 	font-size: 0.8rem;
+ 	line-height: 2.5rem;
+ 	padding: 0 2rem;
+ }
+
+nav li a:hover{
+
+	background: rgba(0,0,0,.4);
+
+}
