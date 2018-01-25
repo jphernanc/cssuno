@@ -1,1 +1,17 @@
 header {text-align: center;}
+
+nav {
+	 margin: 2rem auto;
+	 width: 80%;
+	 margin-r
+ }
+
+ nav ul{
+
+ 	background: #333;
+ 	height: 2.5rem;
+ 	list-style: none;
+ 	margin: 0;
+ 	padding: 0;
+
+ }
